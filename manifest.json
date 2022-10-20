@@ -1,0 +1,13 @@
+{
+    "manifest_version" : 3,
+    "version": "1.0",
+    "name": "web link",
+    "description": "link grabber",
+    "action": {
+        "default_popup": "lead.html",
+        "default_icon": "128.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
